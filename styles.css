@@ -1,0 +1,139 @@
+.header-main {
+    background-color: #1F2937;
+    padding-left: 60px;
+    padding-bottom: 60px;
+    padding-right: 60px;
+    display: flex;
+    flex-direction: column;
+    
+}
+    
+h1 {
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
+.image-samples {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    margin-top: 25px;
+    color: #e5e7eb;
+}
+
+h2 {
+    color: #f9faf8;
+}
+.links a {
+    font-size: 18px;
+    color: #e5e7eb;
+    list-style: none;
+    text-decoration: none;
+}
+.links {
+    gap: 30px;
+    display: flex;
+
+    margin-top: 30px;
+}
+
+.para {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.header2 {
+    display: flex;
+    margin-top: 30px;
+    gap: 25px;  
+}
+img {
+    height: auto;
+    width: 500px;
+    
+}
+.log-pic {
+    width: 80px;
+    height: 70px;
+    margin-top: 20px;
+    border-radius: 50%;
+    
+}
+
+.pic {
+border-radius: 30px;
+border: 5px solid #3882f6;
+    
+}
+.header1 {
+    display: flex;
+    justify-content: space-between;
+}
+.images {
+    display: flex;
+    /*flex-direction: row;*/
+    justify-content: center;
+    gap: 20px;
+    text-align: center;
+    font-weight: 500;
+}
+.heading {
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 60px;
+}
+
+
+.testimonial {
+    background-color: #e5e7eb;
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+    padding: 60px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+.action {
+    background-color: #3882f6;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    color: #e5e7eb;
+}
+button {
+    background-color: #3882f6;
+    color: #e5e7eb;
+    border-radius: 10px;
+    font-size: 10px;
+    border: none;
+    padding: 6px;
+    
+}
+.butt1 {
+    margin-top: 40px;
+    border-radius: 10px; 
+    border: 2px solid #e5e7eb;   
+}
+.action{
+    margin: 60px 100PX;
+}
+.quote {
+    display: flex;
+    justify-content: end;
+    font-weight: bold;
+    font-style: normal;
+}
+.images img {
+    max-width: 100%;
+}
